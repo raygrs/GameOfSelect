@@ -1,5 +1,5 @@
 <h1>Batalhas por likes </h1>
-<h3>Práticando comandos sql </h3><
+<h3>Práticando comandos sql </h3>
 
 <h2>Fábula</h2> 
 Era uma vez, um mundo duplo ele era dividido entre o mundo real e o mundo virtual, no mundo real as pessoas eram completamente conectadas as redes sociais e só eram aceitas socialmente conforme a sua quantidade de likes em suas publicações. 
