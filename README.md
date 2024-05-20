@@ -1,7 +1,7 @@
-<h1>Batalhas por likes </h1> <br>
-<h3>Práticando comandos sql </h3><br>
+<h1>Batalhas por likes </h1>
+<h3>Práticando comandos sql </h3><
 
-<h2>Fábula</h2> <br>
+<h2>Fábula</h2> 
 Era uma vez, um mundo duplo ele era dividido entre o mundo real e o mundo virtual, no mundo real as pessoas eram completamente conectadas as redes sociais e só eram aceitas socialmente conforme a sua quantidade de likes em suas publicações. 
 
 Com isso as pessoas entravam em uma eterna recompensa por curtidas no mundo virtual que por sua vez era idealizado e fora do comum, onde as pessoas ficavam malucas e fariam qualquer coisa por likes. 
