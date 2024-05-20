@@ -1,6 +1,4 @@
-<h1>GAME OF SELECT </h1> <br>
-<h2>Batalha por likes</h2>
-
+<h1>Batalhas por likes </h1> <br>
 <h3>Práticando comandos sql </h3><br>
 
 <h2>Fábula</h2> <br>
