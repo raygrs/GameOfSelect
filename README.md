@@ -25,6 +25,6 @@ As pessoas podem ser influencer ou telespectadores, sendo que os influencer pode
 <li>Kauan Marques</li>
 <li>Matheus Soares</li>
 <li>Mayara Damas</li>
-<li>Samuel Teodorp</li>
+<li>Samuel Teodoro</li>
 <li>Rayane Reis </li>
 
