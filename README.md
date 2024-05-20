@@ -1,7 +1,7 @@
 <h1>GAME OF SELECT </h1> <br>
 <h2>Batalha por likes</h2>
 
-<h3>Práticando comandos sql através de um desafio por fábulas </h3><br>
+<h3>Práticando comandos sql </h3><br>
 
 <h2>Fábula</h2> <br>
 Era uma vez, um mundo duplo ele era dividido entre o mundo real e o mundo virtual, no mundo real as pessoas eram completamente conectadas as redes sociais e só eram aceitas socialmente conforme a sua quantidade de likes em suas publicações. 
