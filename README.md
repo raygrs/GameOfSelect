@@ -16,7 +16,14 @@ Se você conseguir chegar até os fins das missões, uma outra batalha estará p
 
 <h2>Regra de negócio</h2> <br>
 
-As pessoas podem ser influencer ou telespectadores, sendo que os influencer podem participar ou não de muitas missões para ganhar as batalhas que acontecerão em uma arena, essas pessoas estão obrigatoriamente vinculadas a dois mundos distintos o mundo virtual e o mundo real através de suas publicações essa comunicação entre os mundos se torna possível, os telespectadores definem a quantidade de likes de cada influencer terá em suas publicações e caso queiram podem discutir a sua publicação fazendo com que a missão não seja completa 
+As pessoas podem ser influencers ou telespectadores, sendo que os influencers podem participar ou não de muitas missões para ganhar as batalhas que acontecerão em uma arena especifica, essas pessoas estão obrigatoriamente vinculadas a dois mundos distintos o mundo virtual e o mundo real que por sua vez essas arenas estão localizada em algum mapa de algum dos mundos, através de suas publicações essa comunicação entre os mundos se torna possível, os telespectadores definem a quantidade de likes de cada influencer terá em suas publicações e caso queiram podem discutir a sua publicação fazendo com que a missão não seja completa, até que a batalha se torne um duelo
+
+<li>Cada pessoa pode ser telespectador ou influencer</li>
+<li>Cada pessoa pode fazer ou não muitas publicações e viver em mais de um mundo</li>
+<li>Cada mundo pode conter muitas publicações e mais de uma pessoa </li>
+<li>Cada mundo terá um mapa com um ou mais ambiente de produção especifico </li>
+<li>Cada mapa terá uma ou mais arenas onde acontecerão as batalhas que por sua vez podem se tornar  um duelo afim de cumprir muitas missões e chegar ao objetivo final <li>
+
 
 <h3>Stakeholders: </h3>
 
